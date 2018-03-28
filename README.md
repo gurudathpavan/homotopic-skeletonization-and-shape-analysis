@@ -16,8 +16,11 @@ Write a detailed report describing your results and implementations.
 # Run 
 
 -main_skele.m for homotopic skeletonization
+
 -main_shape2a.m for shape analyis of match1.gif and match3.gif
+
 -main_shape2b.m for shape analysis of shadow1.gif and shadow1rotated.gif
+
 
 
 Keep MATLAB working command on the same working directory as this project files

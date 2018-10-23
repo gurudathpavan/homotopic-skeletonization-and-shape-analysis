@@ -23,6 +23,8 @@ Minimum bounding box approach is used in order to bound each individual objects 
 Similar shape analysis is done for the "Peanuts" comic strip where the best match is computed. 
 
 
+![alt text](shadow1.gif "match1 image")
+![alt text](shadow1rotated.gif "match3 image")
 
 
 

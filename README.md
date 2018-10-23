@@ -6,8 +6,8 @@ Homotopic skeletonization is applied to obtain the skeleton of the two images sh
 ![alt text](penn256.gif "penn image")
 ![alt text](bear.gif "bear image")
 
-![alt text](Visualisation images/finalpenn.png "skeleton_penn image")
-![alt text](Visualisation images/finalbear.png "skeleton_bear image")
+![alt text](Visualisationimages/finalpenn.png "skeleton_penn image")
+![alt text](Visualisationimages/finalbear.png "skeleton_bear image")
 
 ![alt text](Visualisation images/superposepenn.png "output_penn image")
 ![alt text](Visualisation images/superposebear.png "output_bear image")

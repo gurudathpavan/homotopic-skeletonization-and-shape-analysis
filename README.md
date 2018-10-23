@@ -8,9 +8,7 @@ Homotopic skeletonization is applied to obtain the skeleton of the two images sh
 
 ![alt text](/Visualisation_images/Size_distri_pecstrum_spade.png
        "skeleton_penn image")
-![alt text](/Visualisation
-
--images/finalbear.png "skeleton_bear image")
+![alt text](/Visualisation_images/finalbear.png "skeleton_bear image")
 
 ![alt text](Visualisation_images/superposepenn.png "output_penn image")
 ![alt text](Visualisation_images/superposebear.png "output_bear image")

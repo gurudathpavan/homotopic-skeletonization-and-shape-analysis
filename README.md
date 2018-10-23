@@ -6,11 +6,11 @@ Homotopic skeletonization is applied to obtain the skeleton of the two images sh
 ![alt text](penn256.gif "penn image")
 ![alt text](bear.gif "bear image")
 
-![alt text](finalpenn.gif "skeleton_penn image")
-![alt text](finalbear.gif "skeleton_bear image")
+![alt text](Visualisation images/finalpenn.png "skeleton_penn image")
+![alt text](Visualisation images/finalbear.png "skeleton_bear image")
 
-![alt text](superposepenn.gif "output_penn image")
-![alt text](superposebear.gif "output_bear image")
+![alt text](Visualisation images/superposepenn.png "output_penn image")
+![alt text](Visualisation images/superposebear.png "output_bear image")
 
 ## 2 Shape Analysis 
 Minimum bounding box approach is used in order to bound each individual objects in the two "match1" and "match3" images. The size distribution, pecstrum and complexity of each object is computed. Using pecstral analysis, the best object match from "match3" with respect to match1 is computed. 

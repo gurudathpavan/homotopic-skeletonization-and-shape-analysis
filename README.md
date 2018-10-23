@@ -27,7 +27,7 @@ Similar shape analysis is done for the "Peanuts" comic strip where the best matc
 ![alt text](shadow1rotated.gif "match3 image")
 
 
-
+### Please see the report Gurudath_Li_project2.pdf for all results. 
 # Readme.txt 
 
 -main_skele.m for homotopic skeletonization

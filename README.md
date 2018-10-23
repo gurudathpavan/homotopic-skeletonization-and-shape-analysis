@@ -6,7 +6,7 @@ Homotopic skeletonization is applied to obtain the skeleton of the two images sh
 ![alt text](penn256.gif "penn image")
 ![alt text](bear.gif "bear image")
 
-![alt text](homotopic-skeletonization-and-shape-analysis/Visualisation images/Size_distri_pecstrum_spade.png
+![alt text](Visualisation images/Size_distri_pecstrum_spade.png
        "skeleton_penn image")
 ![alt text](Visualisationimages/finalbear.png "skeleton_bear image")
 

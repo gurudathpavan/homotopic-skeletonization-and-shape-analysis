@@ -1,12 +1,24 @@
 # homotopic-skeletonization-and-shape-analysis
 ## 1 Homotopic skeletonization
-Homotopic skeletonization is applied to obtain the skeleton of the two images shown below, namely "penn256" and "bear". The final superposition of the skeleton with the original images are as shown in the "ouptut_penn256" and "output_bear" images. 
+Homotopic skeletonization is applied to obtain the skeleton of the two images shown below, namely "penn256" and "bear". The final homotopic skeletonized as well as the superposition of the skeleton with the original images are as shown in the "skeleton_penn", "skeleton_bear", ouptut_penn256" and "output_bear" images respectively. 
+
+
+![alt text](penn256.gif "penn image")
+![alt text](bear.gif "bear image")
+
+![alt text](finalpenn.gif "skeleton_penn image")
+![alt text](finalbear.gif "skeleton_bear image")
+
+![alt text](superposepenn.gif "output_penn image")
+![alt text](superposebear.gif "output_bear image")
+
+## 2 Shape Analysis 
+Minimum bounding box approach is used in order to bound each individual objects in the two "match1" and "match3" images. The size distribution, pecstrum and complexity of each object is computed. Using pecstral analysis, the best object match from "match3" with respect to match1 is computed. 
+
 
 ![alt text](match1.gif "match1 image")
 ![alt text](match3.gif "match3 image")
 
-## 2 Shape Analysis 
-Minimum bounding box approach is used in order to bound each individual objects in the two "match1" and "match3" images. The size distribution, pecstrum and complexity of each object is computed. Using pecstral analysis, the best object match from "match3" with respect to match1 is computed. 
 
 Similar shape analysis is done for the "Peanuts" comic strip where the best match is computed. 
 
